@@ -1,12 +1,12 @@
-# Bem-vindo ao meu perfil do GitHub 👋
+# Bem-vindo ao meu perfil do GitHub
 
 Olá! Eu sou o Guilherme, um estudante de 20 anos que está cursando Análise e Desenvolvimento de Sistemas. Atualmente, trabalho como desenvolvedor web PHP e estou sempre buscando melhorar minhas habilidades e aprender novas tecnologias.
 
 ### Redes Sociais
 
 [![blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](guirn13)
-[![git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](guirn13)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](guirn13)
+[![git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guirn13/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-neves-868090231/)
 
 ### Linguagens que utilizo
 
