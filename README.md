@@ -26,7 +26,7 @@ Atualmente, estou trabalhando como desenvolvedor web PHP e tenho experiência co
 - **Frameworks:** Bootstrap, jQuery
 - **Bancos de Dados:** MySQL
 - **Controle de Versão:** Git
-- **Plataforma de Hospedagem de Código:** GitHub
+- **Plataforma de Hospedagem de Código:** GitHub, GitLab
 
 ## Projetos
 
