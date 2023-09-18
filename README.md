@@ -25,6 +25,8 @@ Atualmente, estou trabalhando como desenvolvedor web PHP e tenho experiência co
 - **Linguagens:** PHP, Java, SQL, HTML, CSS, JavaScript
 - **Frameworks:** Bootstrap, jQuery
 - **Bancos de Dados:** MySQL
+- **Controle de Versão:** Git
+- **Plataforma de Hospedagem de Código:** GitHub
 
 ## Projetos
 
