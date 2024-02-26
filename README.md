@@ -16,7 +16,7 @@ Olá! Eu sou o Guilherme, um estudante de 20 anos que está cursando Análise e 
 - **Nome:** Guilherme
 - **Idade:** 20 anos
 - **Curso:** Análise e Desenvolvimento de Sistemas
-- **Período:** Terceiro período
+- **Período:** Quarto período
 
 ## Experiência
 
