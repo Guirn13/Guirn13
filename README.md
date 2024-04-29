@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil do GitHub
 
-Olá! Eu sou o Guilherme, um estudante de 20 anos que está cursando Análise e Desenvolvimento de Sistemas. Atualmente, trabalho como desenvolvedor web PHP e tenho paixão por tecnologia e programação. No meu terceiro período acadêmico, estou constantemente buscando melhorar minhas habilidades e aprender novas tecnologias.
+Olá! Eu sou o Guilherme, um estudante de 20 anos que está cursando Análise e Desenvolvimento de Sistemas. Atualmente, trabalho como desenvolvedor web PHP e tenho paixão por tecnologia e programação. No meu Quarto período acadêmico, estou constantemente buscando melhorar minhas habilidades e aprender novas tecnologias.
 
 ### Redes Sociais
 
