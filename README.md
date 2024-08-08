@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil do GitHub
 
-Olá! Eu sou o Guilherme, um estudante de 20 anos que está cursando Análise e Desenvolvimento de Sistemas. Atualmente, trabalho como desenvolvedor web PHP e tenho paixão por tecnologia e programação. No meu Quarto período acadêmico, estou constantemente buscando melhorar minhas habilidades e aprender novas tecnologias.
+Olá! Eu sou o Guilherme, um estudante de 21 anos que está cursando Sistemas de Informação. Atualmente, trabalho como desenvolvedor Web e tenho paixão por tecnologia e programação. Estou no meu quinto período acadêmico, estou constantemente buscando melhorar minhas habilidades e aprender novas tecnologias.
 
 ### Redes Sociais
 
@@ -20,10 +20,10 @@ Olá! Eu sou o Guilherme, um estudante de 20 anos que está cursando Análise e 
 
 ## Experiência
 
-Atualmente, estou trabalhando como desenvolvedor web PHP e tenho experiência com as seguintes tecnologias:
+Atualmente, estou trabalhando como desenvolvedor Web e tenho experiência com as seguintes tecnologias:
 
-- **Linguagens:** PHP, Java, SQL, HTML, CSS, JavaScript
-- **Frameworks:** Bootstrap, jQuery
+- **Linguagens:** PHP, Java, SQL, HTML, CSS, JavaScript, React e Nest JS
+- **Frameworks:** Bootstrap, jQuery, chakra ui
 - **Bancos de Dados:** MySQL
 - **Controle de Versão:** Git
 -  **Conatiners:** Docker
@@ -35,6 +35,6 @@ Aqui você encontrará alguns dos meus projetos pessoais e contribuições para 
 
 ## Contato
 
-Se você deseja entrar em contato comigo para colaborações, perguntas ou apenas para bater um papo, sinta-se à vontade para me enviar uma mensagem aqui no GitHub.
+Se você deseja entrar em contato comigo para colaborações, perguntas ou apenas para bater um papo, sinta-se à vontade para me enviar uma mensagem aqui no GitHub ou no LinkedIn.
 
 Vamos criar coisas incríveis juntos!
