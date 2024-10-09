@@ -15,7 +15,7 @@ Olá! Eu sou o Guilherme, um estudante de 21 anos que está cursando Sistemas de
 
 - **Nome:** Guilherme
 - **Idade:** 21 anos
-- **Curso:** Análise e Desenvolvimento de Sistemas
+- **Curso:** Sistemas de informação
 - **Período:** Quarto período
 
 ## Experiência
